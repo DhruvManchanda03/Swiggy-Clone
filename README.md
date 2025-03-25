@@ -4,11 +4,15 @@
 
 <h2>Features</h2>
 - <b><i>Fully Responsive:</i></b> Adapts seamlessly to different screen sizes.
+
 - <b><i>Clean UI:</i></b> Mimics Swiggy's interface with a structured layout.
+
 - <b><i>Clickable Links: </i></b>All links redirect to Swiggy's official website.
 
 <h2>Technologies Used</h2>
+
 - HTML
+
 - CSS
 
 
