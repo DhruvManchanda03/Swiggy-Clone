@@ -2,12 +2,12 @@
 
 <p>A responsive Swiggy clone built using HTML and CSS. This project replicates the visual design of Swiggy, with links redirecting to the original Swiggy website.</p>
 
-## Features
+<h2>Features</h2>
 - **Fully Responsive**: Adapts seamlessly to different screen sizes.
 - **Clean UI**: Mimics Swiggy's interface with a structured layout.
 - **Clickable Links**: All links redirect to Swiggy's official website.
 
-## Technologies Used
+<h2>Technologies Used</h2>
 - HTML
 - CSS
 
